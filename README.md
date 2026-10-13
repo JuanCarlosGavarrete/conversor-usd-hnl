@@ -1,6 +1,6 @@
 # Conversor USD a HNL
 
-**Nombre del estudiante:** Escribe aquí tu nombre completo.
+**Nombre del estudiante:** Juan Carlos Gavarrete
 
 ## Descripción
 
